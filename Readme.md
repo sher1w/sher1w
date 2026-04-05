@@ -21,7 +21,7 @@ currently being verified by a linguist at Goa University.
 
 Interned as a pentesting and network analysis intern in 2025.  
 A few IIT certifications in cybersecurity and systems.  
-Comfortable in Java, Python, C and Linux.
+Comfortable in Java, Python, C , C++ , R and Linux.
 
 ---
 
