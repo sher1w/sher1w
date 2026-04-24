@@ -28,7 +28,7 @@ We're also building the first labeled Konkani dataset for this problem — curre
 ## Languages & Tools
 
 ```
-Languages   →  Java  |  Python  |  C  |  C++  |  JavaScript
+Languages   →  Java  |  Python  |  C  |  C++  |  JavaScript | R
 Backend     →  FastAPI  |  REST APIs  |  Firebase  |  MySQL
 Frontend    →  React  |  HTML/CSS
 Other       →  Git  |  Linux  |  Basic penetration testing tools
