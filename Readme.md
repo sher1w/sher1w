@@ -1,7 +1,7 @@
 # Sherwin Mazarello
 
 CS student from Goa. I work on things at the intersection of 
-security and systems — pentesting, network analysis, and recently 
+security and systems : pentesting, network analysis, and recently 
 NLP research on fake news detection in Indian regional languages.
 
 ---
@@ -11,7 +11,7 @@ NLP research on fake news detection in Indian regional languages.
 **Fake News Detection for Hindi & Konkani**  
 Building an ensemble system that combines transformers, deep learning, 
 and LLMs to detect misinformation in two languages that have almost 
-no existing detection tools. Konkani especially — nobody has built 
+no existing detection tools. Konkani especially ,nobody has built 
 anything for it. I'm helping create the first labeled dataset for it, 
 currently being verified by a linguist at Goa University.
 
