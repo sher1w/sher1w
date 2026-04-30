@@ -18,10 +18,9 @@ We're also building the first labeled Konkani dataset for this problem — curre
 
 ## Background
 
-- Interned as a **pentesting & network analysis intern** in 2025 — got comfortable with reading systems from the outside in, which has genuinely made me a better developer
-- A handful of **IIT certifications** in cybersecurity, project management, and systems
+- A handful of **IIT certifications** in Porgramming, project management, and systems
 - Comfortable with **Java, Python, C, C++** and working in Linux environments
-- Know my way around **React, FastAPI, Firebase, MySQL, Git**
+- Know my way around **React,  Flask, Firebase, MySQL, Git**
 
 ---
 
@@ -29,7 +28,7 @@ We're also building the first labeled Konkani dataset for this problem — curre
 
 ```
 Languages   →  Java  |  Python  |  C  |  C++  |  JavaScript | R
-Backend     →  FastAPI  |  REST APIs  |  Firebase  |  MySQL
+Backend     →  Flask  |  REST APIs  |  Firebase  |  MySQL
 Frontend    →  React  |  HTML/CSS
 Other       →  Git  |  Linux  |  Basic penetration testing tools
 ```
@@ -37,7 +36,6 @@ Other       →  Git  |  Linux  |  Basic penetration testing tools
 ---
 
 ## Let's connect
-
 📧 mazarellosherwin4@gmail.com  
 📍 Margao, Goa  
 🔗 [LinkedIn](https://linkedin.com/in/sherwin-mazarello)
