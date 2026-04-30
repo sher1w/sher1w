@@ -36,14 +36,6 @@ Other       →  Git  |  Linux  |  Basic penetration testing tools
 
 ---
 
-## Coding Profiles
-
-- [LeetCode](https://leetcode.com/u/mazarellosherwin/)
-- [HackerRank](https://www.hackerrank.com/profile/mazarellosherwi1)
-- [GitHub](https://github.com/sher1w)
-
----
-
 ## Let's connect
 
 📧 mazarellosherwin4@gmail.com  
