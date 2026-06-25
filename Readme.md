@@ -39,5 +39,6 @@ Other       →  Git  |  Linux  |  Basic penetration testing tools
 📧 mazarellosherwin4@gmail.com  
 📍 Margao, Goa  
 🔗 [LinkedIn](https://linkedin.com/in/sherwin-mazarello)
+🔗 [Leetcode](https:https://leetcode.com/u/mazarellosherwin/)
 
 Open to SDE, backend, or software testing roles (fresher), available from June 2026.
