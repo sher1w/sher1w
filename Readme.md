@@ -2,8 +2,8 @@
 
 # Hey, I'm Sherwin
 
-Software engineer based in Goa, India.
+Computer Engineering graduate from Goa, India.
 
-Interested in backend development, distributed systems, and software engineering.
+Interested in software engineering, backend development, APIs, databases, and AI/ML.
 
-Currently working with Java, Spring Boot, Node.js, Express.js, PostgreSQL, and Python.
+Currently working with Java, Python, JavaScript/TypeScript, SQL, and various backend technologies.
